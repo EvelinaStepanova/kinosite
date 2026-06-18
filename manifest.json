@@ -1,6 +1,6 @@
 {
     "name": "Киносайт",
-    "short-name": "Кино",
+    "short_name": "Кино",
     "descritpion": "Платформа для поиска популярных фильмов",
     "start_url": "index.html",
     "display": "standalone",
@@ -16,6 +16,20 @@
             "src": "assets/icons/icon-512.png",
             "sizes": "512x512",
             "type" : "image/png"
+        }
+    ],
+    "screenshorts": [
+        {
+            "src": "assets/images/screenshot-wide.jpg",
+            "sizes": "1280x720",
+            "type": "image/jpg",
+            "form_factor": "wide"
+        },
+        {
+            "src": "assets/images/screenshot-mobile.jpg",
+            "sizes": "720x1280",
+            "type": "image/jpg",
+            "form_factor": "narrow"
         }
     ]
 }
