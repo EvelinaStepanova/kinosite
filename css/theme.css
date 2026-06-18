@@ -1,0 +1,6 @@
+body.dark-theme{
+    --color-dark: #fff;
+    --color-light: #141414;
+    --color-text: #fff;
+     --color-header-text: #141414;
+}
